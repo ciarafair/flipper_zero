@@ -1,0 +1,45 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: n8_ring_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: n8_bike_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: n8_bikeless_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: n8_bike_zoom_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: n8_bike_mac_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: n8_eye_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
