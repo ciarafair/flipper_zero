@@ -1,268 +1,261 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
-Name: L1_Waves_128x50
+Name: official/L1_Senpai_128x64
 Min butthurt: 0
-Max butthurt: 5
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Laptop_128x51
-Min butthurt: 0
-Max butthurt: 7
-Min level: 0
-Max level: 1
-Weight: 0
-
-Name: L1_Sleep_128x64
-Min butthurt: 0
-Max butthurt: 10
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Recording_128x51
-Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 1
-Weight: 0
-
-Name: L1_Furippa1_128x64
-Min butthurt: 0
-Max butthurt: 6
-Min level: 0
-Max level: 1
-Weight: 0
-
-Name: L1_Read_books_128x64
-Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 1
-Weight: 0
-
-Name: L1_Cry_128x64
-Min butthurt: 8
-Max butthurt: 13
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Boxing_128x64
-Min butthurt: 10
-Max butthurt: 13
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Mad_fist_128x64
-Min butthurt: 9
-Max butthurt: 13
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Mods_128x64
-Min butthurt: 0
-Max butthurt: 9
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Painting_128x64
-Min butthurt: 0
-Max butthurt: 7
-Min level: 0
-Max level: 3
-Weight: 0
-
-Name: L1_Leaving_sad_128x64
-Min butthurt: 14
 Max butthurt: 14
-Min level: 0
-Max level: 3
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L1_Senpai_128x64
+Name: official/L1_Cry_128x64
 Min butthurt: 0
-Max butthurt: 5
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L1_Kaiju_128x64
+Name: official/L2_Dj_128x64
 Min butthurt: 0
-Max butthurt: 10
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L1_My_dude_128x64
+Name: official/L2_Coding_in_the_shell_128x64
 Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Wake_up_128x64
+Name: official/L3_Hijack_radio_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Furippa2_128x64
+Name: official/L1_Read_books_128x64
 Min butthurt: 0
-Max butthurt: 6
-Min level: 0
-Max level: 2
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Hacking_pc_128x64
+Name: official/L1_Leaving_sad_128x64
 Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 2
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Soldering_128x64
+Name: official/L2_Furippa2_128x64
 Min butthurt: 0
-Max butthurt: 10
-Min level: 0
-Max level: 2
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Dj_128x64
+Name: official/L1_Sleep_128x64
 Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L3_Furippa3_128x64
+Name: official/L1_Furippa1_128x64
 Min butthurt: 0
-Max butthurt: 6
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L3_Hijack_radio_128x64
+Name: official/L1_Mad_fist_128x64
 Min butthurt: 0
-Max butthurt: 8
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L3_Lab_research_128x54
+Name: official/L1_Sad_song_128x64
 Min butthurt: 0
-Max butthurt: 10
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L1_Sad_song_128x64
-Min butthurt: 8
-Max butthurt: 13
-Min level: 0
-Max level: 3
+Name: official/L2_Soldering_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: L2_Coding_in_the_shell_128x64
+Name: official/L1_Recording_128x51
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: n8_city_128x64
+Name: official/L1_Boxing_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
-
-Name: portal_animation128x64
-Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: garfield_128x64
+Name: official/L3_Lab_research_128x54
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 7
-
-Name: haunter_128x64
-Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
-
-Name: haunter_128x64
-Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
-
-Name: air_conditioning_128x64
-Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
+Max butthurt: 14
+Min level: 1
+Max level: 30
 Weight: 0
 
-Name: blinking_eye_128x64
+Name: official/L1_Kaiju_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: pikachu_128x64
+Name: official/L3_Furippa3_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: STOPOXY_SEGA_128x64
+Name: official/L1_Waves_128x50
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: stopoxy_hatsune_miku_128x64
+Name: official/L2_Wake_up_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: stopoxy_CN_128x64
+Name: official/L1_My_dude_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: axolotl_128x64
+Name: official/L1_Painting_128x64
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
-Name: digital_rain_128x64
+Name: official/L1_Laptop_128x51
 Min butthurt: 0
-Max butthurt: 12
-Min level: 0
-Max level: 3
-Weight: 5
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: official/L1_Mods_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: official/L2_Hacking_pc_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: custom/wrenchathome_pikachu_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 2
+
+Name: custom/talking_sasquatch_axolotl_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 2
+
+Name: custom/top_billin_city_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: custom/stopoxy_cartoon_network_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/top_billin_burns_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/wrenchathome_garfield_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 2
+
+Name: custom/oneamonethetrees_blinking_eye_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/fiattarone_GLaD0S_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/fiattarone_battle_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: custom/fiattarone_missingnos_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/stopoxy_sega_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: custom/talking_sasquatch_digital_rain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
